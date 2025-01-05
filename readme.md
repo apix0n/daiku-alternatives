@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `January 05, 2025 14:38 UTC`
+last updated at: `January 05, 2025 15:01 UTC`
 
-total anilist overrides count: `23`
+total anilist overrides count: `27`
 
 ## anilist overrides
 
@@ -157,8 +157,40 @@ else the title was too long 💀
 
 * no cover override
 
+### 181444 - as `The Fragrant Flower Blooms With Dignity`
+
+<img align="right" src="181444/small.jpg" height="80px">
+
+* `size: small`: [181444/small.jpg](181444/small.jpg)
+* `size: medium`: [181444/medium.jpg](181444/medium.jpg)
+* `size: large`: [181444/large.jpg](181444/large.jpg)
+* change description:
+```
+doesn't have a proper cover art yet, will remove when cover art releases
+```
+
 ### 181641 - as `Alya Sometimes Hides Her Feelings in Russian Season 2`
 
 * no cover override
+
+### 182255 - as `Frieren: Beyond Journey’s End Season 2`
+
+* no cover override
+
+### 182587 - as `Oshi no Ko Season 3`
+
+* no cover override
+* change description:
+```
+its writing didn't match the other seasons'
+```
+
+### 185660 - as `Dandadan Season 2`
+
+* no cover override
+* change description:
+```
+again, i don't like full-capital titles
+```
 
 

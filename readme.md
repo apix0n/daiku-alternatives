@@ -1,10 +1,26 @@
 # daiku-alternatives
 
-last updated at: `January 05, 2025 13:45 UTC`
+last updated at: `January 05, 2025 14:08 UTC`
 
-total anilist overrides count: `7`
+total anilist overrides count: `15`
 
 ## anilist overrides
+
+### 2034 - as `Lovely★Complex`
+
+* no cover override
+* change description:
+```
+i like the star
+```
+
+### 18661 - as `Kamisama Kiss OVA`
+
+* no cover override
+
+### 98033 - as `Kamisama Kiss: The God Will Be Happy`
+
+* no cover override
 
 ### 117195
 
@@ -39,7 +55,15 @@ i don't like it, as it doesn't display the variety of characters in the anime
 * `size: medium`: [125367/medium.jpg](125367/medium.jpg)
 * `size: large`: [125367/large.jpg](125367/large.jpg)
 
-### 130003
+### 125368 - as `Kaguya-sama: Love is War OVA`
+
+* no cover override
+
+### 128643 - as `My Teen Romantic Comedy SNAFU Climax! OVA`
+
+* no cover override
+
+### 130003 - as `Bocchi the Rock!`
 
 <img align="right" src="130003/small.jpg" height="80px">
 
@@ -50,6 +74,15 @@ i don't like it, as it doesn't display the variety of characters in the anime
 ```
 replaced poster cuz we didn't see the band well enough
 cover art comes from anime re-release as movie 'Bocchi the Rock! Re:'
+title: i hate full-capital titles
+```
+
+### 150672 - as `Oshi no Ko`
+
+* no cover override
+* change description:
+```
+there was a capital letter to "No" and not for the S2 it disturbed me
 ```
 
 ### 161645
@@ -59,6 +92,10 @@ cover art comes from anime re-release as movie 'Bocchi the Rock! Re:'
 * `size: small`: [161645/small.jpg](161645/small.jpg)
 * `size: medium`: [161645/medium.jpg](161645/medium.jpg)
 * `size: large`: [161645/large.jpg](161645/large.jpg)
+
+### 163327 - as `The Quintessential Quintuplets~`
+
+* no cover override
 
 ### 170942
 
@@ -72,12 +109,24 @@ cover art comes from anime re-release as movie 'Bocchi the Rock! Re:'
 the cover art is for the cour 2 of the anime
 ```
 
-### 171018
+### 171018 - as `Dandadan`
 
 <img align="right" src="171018/small.jpg" height="80px">
 
 * `size: small`: [171018/small.jpg](171018/small.jpg)
 * `size: medium`: [171018/medium.jpg](171018/medium.jpg)
 * `size: large`: [171018/large.jpg](171018/large.jpg)
+* change description:
+```
+i don't like full-capital titles
+```
+
+### 171457 - as `Too Many Losing Heroines!`
+
+* no cover override
+* change description:
+```
+else the title was too long 💀
+```
 
 

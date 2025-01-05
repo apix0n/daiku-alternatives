@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `January 05, 2025 14:08 UTC`
+last updated at: `January 05, 2025 14:11 UTC`
 
-total anilist overrides count: `15`
+total anilist overrides count: `17`
 
 ## anilist overrides
 
@@ -15,6 +15,14 @@ i like the star
 ```
 
 ### 18661 - as `Kamisama Kiss OVA`
+
+* no cover override
+
+### 20837 - as `Blue Spring Ride: unwritten`
+
+* no cover override
+
+### 20900 - as `Blue Spring Ride PAGE.13`
 
 * no cover override
 

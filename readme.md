@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `January 05, 2025 14:25 UTC`
+last updated at: `January 05, 2025 14:29 UTC`
 
-total anilist overrides count: `19`
+total anilist overrides count: `23`
 
 ## anilist overrides
 
@@ -97,6 +97,10 @@ title: i hate full-capital titles
 there was a capital letter to "No" and not for the S2 it disturbed me
 ```
 
+### 154768 - as `My Dress-Up Darling Season 2`
+
+* no cover override
+
 ### 161645
 
 <img align="right" src="161645/small.jpg" height="80px">
@@ -106,6 +110,10 @@ there was a capital letter to "No" and not for the S2 it disturbed me
 * `size: large`: [161645/large.jpg](161645/large.jpg)
 
 ### 163327 - as `The Quintessential Quintuplets~`
+
+* no cover override
+
+### 170019 - as `The Angel Next Door Spoils Me Rotten Season 2`
 
 * no cover override
 
@@ -133,6 +141,10 @@ the cover art is for the cour 2 of the anime
 i don't like full-capital titles
 ```
 
+### 171046 - as `Rascal Does Not Dream of Santa Claus`
+
+* no cover override
+
 ### 171457 - as `Too Many Losing Heroines!`
 
 * no cover override
@@ -142,6 +154,10 @@ else the title was too long 💀
 ```
 
 ### 172729 - as `They are Still Being Shaken This Morning`
+
+* no cover override
+
+### 181641 - as `Alya Sometimes Hides Her Feelings in Russian Season 2`
 
 * no cover override
 

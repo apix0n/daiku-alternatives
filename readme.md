@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `January 05, 2025 16:41 UTC`
+last updated at: `January 05, 2025 20:37 UTC`
 
-total anilist overrides count: `27`
+total anilist overrides count: `28`
 
 ## anilist overrides
 
@@ -87,6 +87,18 @@ i don't like it, as it doesn't display the variety of characters in the anime
 replaced poster cuz we didn't see the band well enough
 cover art comes from anime re-release as movie 'Bocchi the Rock! Re:'
 title: i hate full-capital titles
+```
+
+### 143270
+
+<img align="right" src="143270/small.jpg" height="80px">
+
+* `size: small`: [143270/small.jpg](143270/small.jpg)
+* `size: medium`: [143270/medium.jpg](143270/medium.jpg)
+* `size: large`: [143270/large.jpg](143270/large.jpg)
+* change description:
+```
+first key visual of the anime
 ```
 
 ### 150672 - as `Oshi no Ko`

@@ -52,6 +52,13 @@
     },
     "title": "Bocchi the Rock!"
   },
+  "143270": {
+    "covers": {
+      "small": "../143270/small.jpg",
+      "medium": "../143270/medium.jpg",
+      "large": "../143270/large.jpg"
+    }
+  },
   "150672": {
     "title": "Oshi no Ko"
   },

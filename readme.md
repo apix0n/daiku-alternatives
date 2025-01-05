@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `January 05, 2025 14:11 UTC`
+last updated at: `January 05, 2025 14:25 UTC`
 
-total anilist overrides count: `17`
+total anilist overrides count: `19`
 
 ## anilist overrides
 
@@ -23,6 +23,10 @@ i like the star
 * no cover override
 
 ### 20900 - as `Blue Spring Ride PAGE.13`
+
+* no cover override
+
+### 54294 - as `Blue Spring Ride`
 
 * no cover override
 
@@ -136,5 +140,9 @@ i don't like full-capital titles
 ```
 else the title was too long 💀
 ```
+
+### 172729 - as `They are Still Being Shaken This Morning`
+
+* no cover override
 
 

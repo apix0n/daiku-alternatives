@@ -83,7 +83,8 @@
       "small": "../170942/small.jpg",
       "medium": "../170942/medium.jpg",
       "large": "../170942/large.jpg"
-    }
+    },
+    "airingEpisodesOffset": -1
   },
   "171018": {
     "covers": {

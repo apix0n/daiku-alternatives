@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `January 05, 2025 20:37 UTC`
+last updated at: `January 06, 2025 18:09 UTC`
 
 total anilist overrides count: `28`
 
@@ -9,7 +9,7 @@ total anilist overrides count: `28`
 ### 2034 - as `Lovely★Complex`
 
 * no cover override
-* change description:
+* change note:
 ```
 i like the star
 ```
@@ -36,24 +36,26 @@ i like the star
 
 ### 117195
 
-<img align="right" src="117195/small.jpg" height="80px">
+<img align="right" src="117195/small.jpg" height="100px">
 
-* `size: small`: [117195/small.jpg](117195/small.jpg)
-* `size: medium`: [117195/medium.jpg](117195/medium.jpg)
-* `size: large`: [117195/large.jpg](117195/large.jpg)
-* change description:
+* cover:
+  * `small`: [117195/small.jpg](117195/small.jpg)
+  * `medium`: [117195/medium.jpg](117195/medium.jpg)
+  * `large`: [117195/large.jpg](117195/large.jpg)
+* change note:
 ```
 cover of the last volume (from mangadex)
 ```
 
 ### 124080
 
-<img align="right" src="124080/small.jpg" height="80px">
+<img align="right" src="124080/small.jpg" height="100px">
 
-* `size: small`: [124080/small.jpg](124080/small.jpg)
-* `size: medium`: [124080/medium.jpg](124080/medium.jpg)
-* `size: large`: [124080/large.jpg](124080/large.jpg)
-* change description:
+* cover:
+  * `small`: [124080/small.jpg](124080/small.jpg)
+  * `medium`: [124080/medium.jpg](124080/medium.jpg)
+  * `large`: [124080/large.jpg](124080/large.jpg)
+* change note:
 ```
 anilist uses cover art of end of anime, which only shows hori and miyamura
 i don't like it, as it doesn't display the variety of characters in the anime
@@ -61,11 +63,12 @@ i don't like it, as it doesn't display the variety of characters in the anime
 
 ### 125367
 
-<img align="right" src="125367/small.jpg" height="80px">
+<img align="right" src="125367/small.jpg" height="100px">
 
-* `size: small`: [125367/small.jpg](125367/small.jpg)
-* `size: medium`: [125367/medium.jpg](125367/medium.jpg)
-* `size: large`: [125367/large.jpg](125367/large.jpg)
+* cover:
+  * `small`: [125367/small.jpg](125367/small.jpg)
+  * `medium`: [125367/medium.jpg](125367/medium.jpg)
+  * `large`: [125367/large.jpg](125367/large.jpg)
 
 ### 125368 - as `Kaguya-sama: Love is War OVA`
 
@@ -77,12 +80,13 @@ i don't like it, as it doesn't display the variety of characters in the anime
 
 ### 130003 - as `Bocchi the Rock!`
 
-<img align="right" src="130003/small.jpg" height="80px">
+<img align="right" src="130003/small.jpg" height="100px">
 
-* `size: small`: [130003/small.jpg](130003/small.jpg)
-* `size: medium`: [130003/medium.jpg](130003/medium.jpg)
-* `size: large`: [130003/large.jpg](130003/large.jpg)
-* change description:
+* cover:
+  * `small`: [130003/small.jpg](130003/small.jpg)
+  * `medium`: [130003/medium.jpg](130003/medium.jpg)
+  * `large`: [130003/large.jpg](130003/large.jpg)
+* change note:
 ```
 replaced poster cuz we didn't see the band well enough
 cover art comes from anime re-release as movie 'Bocchi the Rock! Re:'
@@ -91,12 +95,13 @@ title: i hate full-capital titles
 
 ### 143270
 
-<img align="right" src="143270/small.jpg" height="80px">
+<img align="right" src="143270/small.jpg" height="100px">
 
-* `size: small`: [143270/small.jpg](143270/small.jpg)
-* `size: medium`: [143270/medium.jpg](143270/medium.jpg)
-* `size: large`: [143270/large.jpg](143270/large.jpg)
-* change description:
+* cover:
+  * `small`: [143270/small.jpg](143270/small.jpg)
+  * `medium`: [143270/medium.jpg](143270/medium.jpg)
+  * `large`: [143270/large.jpg](143270/large.jpg)
+* change note:
 ```
 first key visual of the anime
 ```
@@ -104,7 +109,7 @@ first key visual of the anime
 ### 150672 - as `Oshi no Ko`
 
 * no cover override
-* change description:
+* change note:
 ```
 there was a capital letter to "No" and not for the S2 it disturbed me
 ```
@@ -115,11 +120,12 @@ there was a capital letter to "No" and not for the S2 it disturbed me
 
 ### 161645
 
-<img align="right" src="161645/small.jpg" height="80px">
+<img align="right" src="161645/small.jpg" height="100px">
 
-* `size: small`: [161645/small.jpg](161645/small.jpg)
-* `size: medium`: [161645/medium.jpg](161645/medium.jpg)
-* `size: large`: [161645/large.jpg](161645/large.jpg)
+* cover:
+  * `small`: [161645/small.jpg](161645/small.jpg)
+  * `medium`: [161645/medium.jpg](161645/medium.jpg)
+  * `large`: [161645/large.jpg](161645/large.jpg)
 
 ### 163327 - as `The Quintessential Quintuplets~`
 
@@ -131,24 +137,28 @@ there was a capital letter to "No" and not for the S2 it disturbed me
 
 ### 170942
 
-<img align="right" src="170942/small.jpg" height="80px">
+<img align="right" src="170942/small.jpg" height="100px">
 
-* `size: small`: [170942/small.jpg](170942/small.jpg)
-* `size: medium`: [170942/medium.jpg](170942/medium.jpg)
-* `size: large`: [170942/large.jpg](170942/large.jpg)
-* change description:
+* cover:
+  * `small`: [170942/small.jpg](170942/small.jpg)
+  * `medium`: [170942/medium.jpg](170942/medium.jpg)
+  * `large`: [170942/large.jpg](170942/large.jpg)
+* airing episodes offset: `-1`
+* change note:
 ```
 the cover art is for the cour 2 of the anime
+episodes air one week in advance on jp netflix, and anilists bases on that; so -1 to get everywhere's correct next episode number
 ```
 
 ### 171018 - as `Dandadan`
 
-<img align="right" src="171018/small.jpg" height="80px">
+<img align="right" src="171018/small.jpg" height="100px">
 
-* `size: small`: [171018/small.jpg](171018/small.jpg)
-* `size: medium`: [171018/medium.jpg](171018/medium.jpg)
-* `size: large`: [171018/large.jpg](171018/large.jpg)
-* change description:
+* cover:
+  * `small`: [171018/small.jpg](171018/small.jpg)
+  * `medium`: [171018/medium.jpg](171018/medium.jpg)
+  * `large`: [171018/large.jpg](171018/large.jpg)
+* change note:
 ```
 i don't like full-capital titles
 ```
@@ -160,7 +170,7 @@ i don't like full-capital titles
 ### 171457 - as `Too Many Losing Heroines!`
 
 * no cover override
-* change description:
+* change note:
 ```
 else the title was too long 💀
 ```
@@ -171,12 +181,13 @@ else the title was too long 💀
 
 ### 181444 - as `The Fragrant Flower Blooms With Dignity`
 
-<img align="right" src="181444/small.jpg" height="80px">
+<img align="right" src="181444/small.jpg" height="100px">
 
-* `size: small`: [181444/small.jpg](181444/small.jpg)
-* `size: medium`: [181444/medium.jpg](181444/medium.jpg)
-* `size: large`: [181444/large.jpg](181444/large.jpg)
-* change description:
+* cover:
+  * `small`: [181444/small.jpg](181444/small.jpg)
+  * `medium`: [181444/medium.jpg](181444/medium.jpg)
+  * `large`: [181444/large.jpg](181444/large.jpg)
+* change note:
 ```
 doesn't have a proper cover art yet, will remove when cover art releases
 ```
@@ -192,7 +203,7 @@ doesn't have a proper cover art yet, will remove when cover art releases
 ### 182587 - as `Oshi no Ko Season 3`
 
 * no cover override
-* change description:
+* change note:
 ```
 its writing didn't match the other seasons'
 ```
@@ -200,7 +211,7 @@ its writing didn't match the other seasons'
 ### 185660 - as `Dandadan Season 2`
 
 * no cover override
-* change description:
+* change note:
 ```
 again, i don't like full-capital titles
 ```

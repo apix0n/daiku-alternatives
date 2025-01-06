@@ -1,0 +1,23 @@
+{
+  "667520": {
+    "covers": {
+      "small": "../667520/small.jpg",
+      "medium": "../667520/medium.jpg",
+      "large": "../667520/large.jpg"
+    }
+  },
+  "776305": {
+    "covers": {
+      "small": "../776305/small.jpg",
+      "medium": "../776305/medium.jpg",
+      "large": "../776305/large.jpg"
+    }
+  },
+  "916192": {
+    "covers": {
+      "small": "../916192/small.jpg",
+      "medium": "../916192/medium.jpg",
+      "large": "../916192/large.jpg"
+    }
+  }
+}

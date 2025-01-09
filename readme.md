@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `January 06, 2025 20:26 UTC`
+last updated at: `January 09, 2025 23:31 UTC`
 
-total anilist overrides count: `28`
+total anilist overrides count: `29`
 
 total tmdb overrides count: `3`
 
@@ -180,6 +180,20 @@ else the title was too long 💀
 ### 172729 - as `They are Still Being Shaken This Morning`
 
 * no cover override
+
+### 175443
+
+<img align="right" src="anilist/175443/small.jpg" height="100px">
+
+* cover:
+  * `small`: [anilist/175443/small.jpg](anilist/175443/small.jpg)
+  * `medium`: [anilist/175443/medium.jpg](anilist/175443/medium.jpg)
+  * `large`: [anilist/175443/large.jpg](anilist/175443/large.jpg)
+* change note:
+```
+edited version (by me) of the third key visual to remove text
+was editing for a clean third visual, but not enough files so waiting
+```
 
 ### 181444 - as `The Fragrant Flower Blooms With Dignity`
 

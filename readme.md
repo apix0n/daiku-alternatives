@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `January 10, 2025 15:30 UTC`
+last updated at: `January 10, 2025 21:08 UTC`
 
 total anilist overrides count: `29`
 
@@ -192,7 +192,7 @@ else the title was too long 💀
 * change note:
 ```
 edited version (by me) of the third key visual to remove text
-was editing for a clean third visual, but not enough files so waiting
+waiting for more files to do a cleaner job
 ```
 
 ### 181444 - as `The Fragrant Flower Blooms With Dignity`

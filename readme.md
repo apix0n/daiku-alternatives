@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `January 11, 2025 10:24 UTC`
+last updated at: `January 11, 2025 16:52 UTC`
 
-total anilist overrides count: `30`
+total anilist overrides count: `31`
 
 total tmdb overrides count: `3`
 
@@ -31,6 +31,20 @@ i like the star
 ### 54294 - as `Blue Spring Ride`
 
 * no cover override
+
+### 72451
+
+<img align="right" src="anilist/72451/small.jpg" height="100px">
+
+* cover:
+  * `small`: [anilist/72451/small.jpg](anilist/72451/small.jpg)
+  * `medium`: [anilist/72451/medium.jpg](anilist/72451/medium.jpg)
+  * `large`: [anilist/72451/large.jpg](anilist/72451/large.jpg)
+* change note:
+```
+limited edition cover for the french volume 13
+comes from mangacollec
+```
 
 ### 98033 - as `Kamisama Kiss: The God Will Be Happy`
 

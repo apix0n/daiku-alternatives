@@ -14,6 +14,13 @@
   "54294": {
     "title": "Blue Spring Ride"
   },
+  "72451": {
+    "covers": {
+      "small": "../72451/small.jpg",
+      "medium": "../72451/medium.jpg",
+      "large": "../72451/large.jpg"
+    }
+  },
   "98033": {
     "title": "Kamisama Kiss: The God Will Be Happy"
   },

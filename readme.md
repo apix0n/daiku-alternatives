@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `January 11, 2025 00:27 UTC`
+last updated at: `January 11, 2025 10:24 UTC`
 
 total anilist overrides count: `30`
 
@@ -109,7 +109,7 @@ title: i hate full-capital titles
   * `large`: [anilist/143270/large.jpg](anilist/143270/large.jpg)
 * change note:
 ```
-first key visual of the anime
+teaser key visual of the anime
 ```
 
 ### 150672 - as `Oshi no Ko`

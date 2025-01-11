@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `January 10, 2025 21:08 UTC`
+last updated at: `January 11, 2025 00:27 UTC`
 
-total anilist overrides count: `29`
+total anilist overrides count: `30`
 
 total tmdb overrides count: `3`
 
@@ -33,6 +33,10 @@ i like the star
 * no cover override
 
 ### 98033 - as `Kamisama Kiss: The God Will Be Happy`
+
+* no cover override
+
+### 102423 - as `We Want to Talk About Kaguya`
 
 * no cover override
 

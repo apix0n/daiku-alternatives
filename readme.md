@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `January 11, 2025 20:19 UTC`
+last updated at: `January 11, 2025 20:24 UTC`
 
 total anilist overrides count: `31`
 
@@ -27,6 +27,7 @@ i like the star
 ### 20900 - as `Blue Spring Ride PAGE.13`
 
 * no cover override
+* accent color: ![#4ba346](https://singlecolorimage.com/get/4ba346/10x10) `#4ba346`
 
 ### 54294 - as `Blue Spring Ride`
 

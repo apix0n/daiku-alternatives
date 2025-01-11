@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `January 11, 2025 20:24 UTC`
+last updated at: `January 11, 2025 20:44 UTC`
 
-total anilist overrides count: `31`
+total anilist overrides count: `32`
 
 total tmdb overrides count: `3`
 
@@ -153,6 +153,10 @@ teaser key visual of the anime
 ```
 there was a capital letter to "No" and not for the S2 it disturbed me
 ```
+
+### 153520 - as `[Oshi no Ko]: Special Chapter (90.5)`
+
+* no cover override
 
 ### 154768 - as `My Dress-Up Darling Season 2`
 

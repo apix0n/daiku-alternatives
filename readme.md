@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `January 11, 2025 16:52 UTC`
+last updated at: `January 11, 2025 20:19 UTC`
 
 total anilist overrides count: `31`
 
@@ -40,6 +40,7 @@ i like the star
   * `small`: [anilist/72451/small.jpg](anilist/72451/small.jpg)
   * `medium`: [anilist/72451/medium.jpg](anilist/72451/medium.jpg)
   * `large`: [anilist/72451/large.jpg](anilist/72451/large.jpg)
+* accent color: ![#dd0c33](https://singlecolorimage.com/get/dd0c33/10x10) `#dd0c33`
 * change note:
 ```
 limited edition cover for the french volume 13
@@ -75,6 +76,7 @@ cover of the last volume (from mangadex)
   * `small`: [anilist/124080/small.jpg](anilist/124080/small.jpg)
   * `medium`: [anilist/124080/medium.jpg](anilist/124080/medium.jpg)
   * `large`: [anilist/124080/large.jpg](anilist/124080/large.jpg)
+* accent color: ![#f9d58b](https://singlecolorimage.com/get/f9d58b/10x10) `#f9d58b`
 * change note:
 ```
 anilist uses cover art of end of anime, which only shows hori and miyamura
@@ -89,6 +91,7 @@ i don't like it, as it doesn't display the variety of characters in the anime
   * `small`: [anilist/125367/small.jpg](anilist/125367/small.jpg)
   * `medium`: [anilist/125367/medium.jpg](anilist/125367/medium.jpg)
   * `large`: [anilist/125367/large.jpg](anilist/125367/large.jpg)
+* accent color: ![#fa849c](https://singlecolorimage.com/get/fa849c/10x10) `#fa849c`
 
 ### 125368 - as `Kaguya-sama: Love is War OVA`
 
@@ -113,6 +116,21 @@ cover art comes from anime re-release as movie 'Bocchi the Rock! Re:'
 title: i hate full-capital titles
 ```
 
+### 132182
+
+<img align="right" src="anilist/132182/small.jpg" height="100px">
+
+* cover:
+  * `small`: [anilist/132182/small.jpg](anilist/132182/small.jpg)
+  * `medium`: [anilist/132182/medium.jpg](anilist/132182/medium.jpg)
+  * `large`: [anilist/132182/large.jpg](anilist/132182/large.jpg)
+* accent color: ![#009ae2](https://singlecolorimage.com/get/009ae2/10x10) `#009ae2`
+* change note:
+```
+cover of the 9th volume of the manga since i liked that one more
+comes from mangadex
+```
+
 ### 143270
 
 <img align="right" src="anilist/143270/small.jpg" height="100px">
@@ -121,6 +139,7 @@ title: i hate full-capital titles
   * `small`: [anilist/143270/small.jpg](anilist/143270/small.jpg)
   * `medium`: [anilist/143270/medium.jpg](anilist/143270/medium.jpg)
   * `large`: [anilist/143270/large.jpg](anilist/143270/large.jpg)
+* accent color: ![#f05e66](https://singlecolorimage.com/get/f05e66/10x10) `#f05e66`
 * change note:
 ```
 teaser key visual of the anime
@@ -137,15 +156,6 @@ there was a capital letter to "No" and not for the S2 it disturbed me
 ### 154768 - as `My Dress-Up Darling Season 2`
 
 * no cover override
-
-### 161645
-
-<img align="right" src="anilist/161645/small.jpg" height="100px">
-
-* cover:
-  * `small`: [anilist/161645/small.jpg](anilist/161645/small.jpg)
-  * `medium`: [anilist/161645/medium.jpg](anilist/161645/medium.jpg)
-  * `large`: [anilist/161645/large.jpg](anilist/161645/large.jpg)
 
 ### 163327 - as `The Quintessential Quintuplets~`
 

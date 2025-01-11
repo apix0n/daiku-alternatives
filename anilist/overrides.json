@@ -19,7 +19,8 @@
       "small": "../72451/small.jpg",
       "medium": "../72451/medium.jpg",
       "large": "../72451/large.jpg"
-    }
+    },
+    "accentColor": "#dd0c33"
   },
   "98033": {
     "title": "Kamisama Kiss: The God Will Be Happy"
@@ -39,14 +40,16 @@
       "small": "../124080/small.jpg",
       "medium": "../124080/medium.jpg",
       "large": "../124080/large.jpg"
-    }
+    },
+    "accentColor": "#f9d58b"
   },
   "125367": {
     "covers": {
       "small": "../125367/small.jpg",
       "medium": "../125367/medium.jpg",
       "large": "../125367/large.jpg"
-    }
+    },
+    "accentColor": "#fa849c"
   },
   "125368": {
     "title": "Kaguya-sama: Love is War OVA"
@@ -62,25 +65,27 @@
     },
     "title": "Bocchi the Rock!"
   },
+  "132182": {
+    "covers": {
+      "small": "../132182/small.jpg",
+      "medium": "../132182/medium.jpg",
+      "large": "../132182/large.jpg"
+    },
+    "accentColor": "#009ae2"
+  },
   "143270": {
     "covers": {
       "small": "../143270/small.jpg",
       "medium": "../143270/medium.jpg",
       "large": "../143270/large.jpg"
-    }
+    },
+    "accentColor": "#f05e66"
   },
   "150672": {
     "title": "Oshi no Ko"
   },
   "154768": {
     "title": "My Dress-Up Darling Season 2"
-  },
-  "161645": {
-    "covers": {
-      "small": "../161645/small.jpg",
-      "medium": "../161645/medium.jpg",
-      "large": "../161645/large.jpg"
-    }
   },
   "163327": {
     "title": "The Quintessential Quintuplets~"

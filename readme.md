@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `January 11, 2025 20:44 UTC`
+last updated at: `January 13, 2025 22:06 UTC`
 
-total anilist overrides count: `32`
+total anilist overrides count: `33`
 
 total tmdb overrides count: `3`
 
@@ -145,6 +145,15 @@ comes from mangadex
 ```
 teaser key visual of the anime
 ```
+
+### 149756
+
+<img align="right" src="anilist/149756/small.jpg" height="100px">
+
+* cover:
+  * `small`: [anilist/149756/small.jpg](anilist/149756/small.jpg)
+  * `medium`: [anilist/149756/medium.jpg](anilist/149756/medium.jpg)
+  * `large`: [anilist/149756/large.jpg](anilist/149756/large.jpg)
 
 ### 150672 - as `Oshi no Ko`
 

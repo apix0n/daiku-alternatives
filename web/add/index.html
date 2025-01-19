@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>add override to daiku</title>
+        <link rel="stylesheet" href="../style.css">
+        <script src="../script.js"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.css" />
+        <script src="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.js"></script>
+        <script>
+            document.addEventListener('DOMContentLoaded', async function () {
+                const alInfo = await searchAniList(`alid:${getQueryVariable("id")}`)
+                createPreview(alInfo.data.Page.media[0]);
+
+                const colorTextInput = document.getElementById('accent');
+                Coloris({
+                    theme: 'polaroid',
+                    alpha: false,
+                    themeMode: "auto",
+                    onChange: (color) => {
+                        colorTextInput.value = color;
+                        updatePreview();
+                    }
+                });
+
+                document.getElementById('removeColorButton').addEventListener('click', () => {
+                    document.querySelector("input[data-coloris]").value = '';
+                    colorTextInput.value = '';
+                    updatePreview();
+                });
+
+                document.getElementById('removeTitleButton').addEventListener('click', () => {
+                    document.getElementById("title").value = '';
+                    updatePreview();
+                });
+
+                const inputs = document.querySelectorAll('input');
+                inputs.forEach(input => {
+                    input.addEventListener('input', () => {
+                        updatePreview();
+                    });
+                });
+
+                function updatePreview() {
+                    const inputValues = {};
+                    inputs.forEach(input => {
+                        inputValues[input.name] = input.value;
+                    });
+                    createPreview(alInfo.data.Page.media[0], inputValues);
+                }
+            });
+        </script>
+    </head>
+
+    <body>
+        <h1>daiku-alternatives - add override for media id</h1>
+        <div class="search-result preview"></div>
+        <hr>
+
+        <label for="title">english title override</label>
+        <input type="text" name="title" id="title">
+        <button type="button" id="removeTitleButton">Reset Title</button>
+        <hr>
+
+        <label for="accent">accent colour override</label>
+        <input type="hidden" id="accent" name="accentColor">
+        <input type="text" maxlength="7" data-coloris>
+        <button type="button" id="removeColorButton">Reset Colour</button>
+    </body>
+
+</html>

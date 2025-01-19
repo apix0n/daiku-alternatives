@@ -1,12 +1,17 @@
 # daiku-alternatives
 
-last updated at: `January 13, 2025 22:06 UTC`
+last updated at: `January 19, 2025 00:27 UTC`
 
-total anilist overrides count: `33`
+total anilist overrides count: `34`
 
 total tmdb overrides count: `3`
 
 ## anilist overrides
+
+### 66
+
+* no cover override
+* accent color: ![#e28185](https://singlecolorimage.com/get/e28185/10x10) `#e28185`
 
 ### 2034 - as `Lovely★Complex`
 

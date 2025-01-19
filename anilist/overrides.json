@@ -77,6 +77,9 @@
     },
     "accentColor": "#009ae2"
   },
+  "140475": {
+    "accentColor": "#c99cb9"
+  },
   "143270": {
     "covers": {
       "small": "../143270/small.jpg",
@@ -90,7 +93,8 @@
       "small": "../149756/small.jpg",
       "medium": "../149756/medium.jpg",
       "large": "../149756/large.jpg"
-    }
+    },
+    "accentColor": "#ea8889"
   },
   "150672": {
     "title": "Oshi no Ko"

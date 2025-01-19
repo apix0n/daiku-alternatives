@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `January 19, 2025 00:27 UTC`
+last updated at: `January 19, 2025 00:45 UTC`
 
-total anilist overrides count: `34`
+total anilist overrides count: `35`
 
 total tmdb overrides count: `3`
 
@@ -137,6 +137,11 @@ cover of the 9th volume of the manga since i liked that one more
 comes from mangadex
 ```
 
+### 140475
+
+* no cover override
+* accent color: ![#c99cb9](https://singlecolorimage.com/get/c99cb9/10x10) `#c99cb9`
+
 ### 143270
 
 <img align="right" src="anilist/143270/small.jpg" height="100px">
@@ -159,6 +164,7 @@ teaser key visual of the anime
   * `small`: [anilist/149756/small.jpg](anilist/149756/small.jpg)
   * `medium`: [anilist/149756/medium.jpg](anilist/149756/medium.jpg)
   * `large`: [anilist/149756/large.jpg](anilist/149756/large.jpg)
+* accent color: ![#ea8889](https://singlecolorimage.com/get/ea8889/10x10) `#ea8889`
 
 ### 150672 - as `Oshi no Ko`
 

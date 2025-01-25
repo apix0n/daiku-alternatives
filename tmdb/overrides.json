@@ -1,23 +1,23 @@
 {
   "667520": {
     "covers": {
+      "large": "../667520/large.jpg",
       "small": "../667520/small.jpg",
-      "medium": "../667520/medium.jpg",
-      "large": "../667520/large.jpg"
+      "medium": "../667520/medium.jpg"
     }
   },
   "776305": {
     "covers": {
+      "large": "../776305/large.jpg",
       "small": "../776305/small.jpg",
-      "medium": "../776305/medium.jpg",
-      "large": "../776305/large.jpg"
+      "medium": "../776305/medium.jpg"
     }
   },
   "916192": {
     "covers": {
+      "large": "../916192/large.jpg",
       "small": "../916192/small.jpg",
-      "medium": "../916192/medium.jpg",
-      "large": "../916192/large.jpg"
+      "medium": "../916192/medium.jpg"
     }
   }
 }

@@ -5,6 +5,14 @@
   "2034": {
     "title": "Lovely\u2605Complex"
   },
+  "14227": {
+    "covers": {
+      "large": "../14227/large.jpg",
+      "small": "../14227/small.jpg",
+      "medium": "../14227/medium.jpg"
+    },
+    "accentColor": "#ffab44"
+  },
   "18661": {
     "title": "Kamisama Kiss OVA"
   },
@@ -20,9 +28,9 @@
   },
   "72451": {
     "covers": {
+      "large": "../72451/large.jpg",
       "small": "../72451/small.jpg",
-      "medium": "../72451/medium.jpg",
-      "large": "../72451/large.jpg"
+      "medium": "../72451/medium.jpg"
     },
     "accentColor": "#dd0c33"
   },
@@ -34,24 +42,24 @@
   },
   "117195": {
     "covers": {
+      "large": "../117195/large.jpg",
       "small": "../117195/small.jpg",
-      "medium": "../117195/medium.jpg",
-      "large": "../117195/large.jpg"
+      "medium": "../117195/medium.jpg"
     }
   },
   "124080": {
     "covers": {
+      "large": "../124080/large.jpg",
       "small": "../124080/small.jpg",
-      "medium": "../124080/medium.jpg",
-      "large": "../124080/large.jpg"
+      "medium": "../124080/medium.jpg"
     },
     "accentColor": "#f9d58b"
   },
   "125367": {
     "covers": {
+      "large": "../125367/large.jpg",
       "small": "../125367/small.jpg",
-      "medium": "../125367/medium.jpg",
-      "large": "../125367/large.jpg"
+      "medium": "../125367/medium.jpg"
     },
     "accentColor": "#fa849c"
   },
@@ -63,17 +71,17 @@
   },
   "130003": {
     "covers": {
+      "large": "../130003/large.jpg",
       "small": "../130003/small.jpg",
-      "medium": "../130003/medium.jpg",
-      "large": "../130003/large.jpg"
+      "medium": "../130003/medium.jpg"
     },
     "title": "Bocchi the Rock!"
   },
   "132182": {
     "covers": {
+      "large": "../132182/large.jpg",
       "small": "../132182/small.jpg",
-      "medium": "../132182/medium.jpg",
-      "large": "../132182/large.jpg"
+      "medium": "../132182/medium.jpg"
     },
     "accentColor": "#009ae2"
   },
@@ -82,17 +90,17 @@
   },
   "143270": {
     "covers": {
+      "large": "../143270/large.jpg",
       "small": "../143270/small.jpg",
-      "medium": "../143270/medium.jpg",
-      "large": "../143270/large.jpg"
+      "medium": "../143270/medium.jpg"
     },
     "accentColor": "#f05e66"
   },
   "149756": {
     "covers": {
+      "large": "../149756/large.jpg",
       "small": "../149756/small.jpg",
-      "medium": "../149756/medium.jpg",
-      "large": "../149756/large.jpg"
+      "medium": "../149756/medium.jpg"
     },
     "accentColor": "#ea8889"
   },
@@ -113,17 +121,17 @@
   },
   "170942": {
     "covers": {
+      "large": "../170942/large.jpg",
       "small": "../170942/small.jpg",
-      "medium": "../170942/medium.jpg",
-      "large": "../170942/large.jpg"
+      "medium": "../170942/medium.jpg"
     },
     "airingEpisodesOffset": -1
   },
   "171018": {
     "covers": {
+      "large": "../171018/large.jpg",
       "small": "../171018/small.jpg",
-      "medium": "../171018/medium.jpg",
-      "large": "../171018/large.jpg"
+      "medium": "../171018/medium.jpg"
     },
     "title": "Dandadan"
   },
@@ -138,16 +146,16 @@
   },
   "175443": {
     "covers": {
+      "large": "../175443/large.jpg",
       "small": "../175443/small.jpg",
-      "medium": "../175443/medium.jpg",
-      "large": "../175443/large.jpg"
+      "medium": "../175443/medium.jpg"
     }
   },
   "181444": {
     "covers": {
+      "large": "../181444/large.jpg",
       "small": "../181444/small.jpg",
-      "medium": "../181444/medium.jpg",
-      "large": "../181444/large.jpg"
+      "medium": "../181444/medium.jpg"
     },
     "title": "The Fragrant Flower Blooms With Dignity"
   },

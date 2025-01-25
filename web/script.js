@@ -58,19 +58,20 @@ function createMediaElements(mediaList) {
         }
         titlesHtml += `<span data-lang="romaji">${media.title.romaji}</span>`;
 
-        var mediaElement = document.createElement('div');
+        var mediaElement = document.createElement('a');
+        mediaElement.className = 'search-result';
+        mediaElement.setAttribute('data-type', media.type);
+        mediaElement.setAttribute('href', `add/?id=${media.id}`);
         mediaElement.innerHTML = `
-            <a class="search-result" data-type="${media.type}" href="add/?id=${media.id}">
-              <div class="image" style="background-image: url(${media.coverImage.medium})"></div>
-              <div class="titles" data-status="${media.status}">
-                ${titlesHtml}
-              </div>
-              <div class="informations">
-                <span>${media.type.toLowerCase()} · ${media.startDate.year ? media.startDate.year : ''} ${media.format !== "MANGA" ? media.format.replace("_", " ") : ''}</span>
-                <span class="id">${media.id}</span>
-              </div>
-            </a>
-        `;
+    <div class="image" style="background-image: url(${media.coverImage.medium})"></div>
+    <div class="titles" data-status="${media.status}">
+        ${titlesHtml}
+    </div>
+    <div class="informations">
+        <span>${media.type.toLowerCase()} · ${media.startDate.year ? media.startDate.year : ''} ${media.format !== "MANGA" ? media.format.replace("_", " ") : ''}</span>
+        <span class="id">${media.id}</span>
+    </div>
+`;
         container.appendChild(mediaElement);
     });
 }

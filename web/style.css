@@ -258,6 +258,10 @@ button[type="submit"]:hover {
     max-height: 180px;
 }
 
+.preview.search-result>.informations {
+    font-size: 1rem;
+}
+
 .preview.search-result[data-type="MANGA"]>.image {
     width: calc(180px / 1.425);
 }

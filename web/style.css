@@ -69,11 +69,24 @@ form {
 }
 
 input[type="search"],
-input[type="text"]:not(.clr-color) {
+input[type="text"]:not(.clr-color),
+input[type="number"],
+input[type="file"]::file-selector-button {
     all: unset;
     background: var(--background-2);
     padding: .4em .8em;
     border-radius: 1em;
+    appearance: textfield;
+}
+
+input[type="search"]::placeholder,
+input[type="text"]:not(.clr-color)::placeholder,
+input[type="number"]::placeholder {
+    color: var(--text-3);
+}
+
+input:invalid {
+    outline: 2px solid red;
 }
 
 form input[type="search"] {
@@ -90,8 +103,14 @@ button {
     border-radius: 1em;
 }
 
-button:hover {
+button:hover,
+input[type="file"]::file-selector-button:hover {
     background-color: var(--background-3-hover);
+}
+
+button:focus,
+input[type="file"]::file-selector-button:focus {
+    background-color: var(--background-4);
 }
 
 button[type="submit"] {
@@ -114,6 +133,10 @@ form * {
 
 form:focus-within {
     outline: solid 2px var(--app-accent-dark);
+}
+
+input:focus {
+    outline: solid 2px var(--app-accent-dark) !important;
 }
 
 button[type="submit"]:focus,
@@ -290,4 +313,25 @@ button[type="submit"]:hover {
 
 .clr-field>button {
     display: none;
+}
+
+input[type="file"] {
+    font-size: 1rem;
+    border-radius: 1em;
+}
+
+input[type="file"]::file-selector-button {
+    margin-right: .5em;
+}
+
+#coverUpload, #coverURL {
+    display: none;
+}
+
+#coversrcUpload:checked~#coverUpload {
+    display: inline;
+}
+
+#coversrcURL:checked~#coverURL {
+    display: inline;
 }

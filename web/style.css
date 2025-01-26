@@ -85,10 +85,6 @@ input[type="number"]::placeholder {
     color: var(--text-3);
 }
 
-input:invalid {
-    outline: 2px solid red;
-}
-
 form input[type="search"] {
     width: 80%;
     border-radius: 1em 0 0 1em;
@@ -213,12 +209,12 @@ button[type="submit"]:hover {
     border-radius: 50%;
 }
 
-.search-result .titles[data-status="RELEASING"]>span:first-child::after {
+.search-result[data-status="RELEASING"] .titles>span:first-child::after {
     content: "";
     background: var(--releasing);
 }
 
-.search-result .titles[data-status="NOT_YET_RELEASED"]>span:first-child::after {
+.search-result[data-status="NOT_YET_RELEASED"] .titles>span:first-child::after {
     content: "";
     background: var(--notyet-releasing);
 }
@@ -322,16 +318,65 @@ input[type="file"] {
 
 input[type="file"]::file-selector-button {
     margin-right: .5em;
+    cursor: pointer;
 }
 
-#coverUpload, #coverURL {
+#coverUpload, #coverURL, #coverUploadURL, #addURLButton {
     display: none;
 }
 
-#coversrcUpload:checked~#coverUpload {
+#coversrcUpload:checked~#coverUpload,
+#coversrcUpload:checked~#coverUploadURL,
+#coversrcUpload:checked~#addURLButton {
     display: inline;
 }
 
 #coversrcURL:checked~#coverURL {
     display: inline;
+}
+
+/* .preview.search-result[data-type="MANGA"]~#nextEpisodeOffset {
+    display: none;
+} */
+
+ul.overrideslist {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul.overrideslist li {
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    padding: 8px;
+    border-bottom: 1px solid var(--background-3);
+    gap: 5px 10px;
+    flex-wrap: wrap;
+}
+
+/* ul.overrideslist li:last-child {
+    border-bottom: none;
+} */
+
+textarea {
+    all: unset;
+    width: 100%;
+    min-height: 8em;
+    padding: .4em .8em;
+    border-radius: 1em;
+    background: var(--background-2);
+    color: var(--text);
+    resize: vertical;
+}
+
+input:invalid {
+    outline: 2px solid red !important;
+}
+
+#additionalURLs {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    /* flex-wrap: wrap; */
 }

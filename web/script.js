@@ -64,10 +64,11 @@ function createMediaElements(mediaList) {
         var mediaElement = document.createElement('a');
         mediaElement.className = 'search-result';
         mediaElement.setAttribute('data-type', media.type);
+        mediaElement.setAttribute("data-status", media.status);
         mediaElement.setAttribute('href', `add/?id=${media.id}`);
         mediaElement.innerHTML = `
     <div class="image" style="background-image: url(${media.coverImage.medium})"></div>
-    <div class="titles" data-status="${media.status}">
+    <div class="titles">
         ${titlesHtml}
     </div>
     <div class="informations">

@@ -101,7 +101,8 @@
       "large": "../143653/large.jpg",
       "small": "../143653/small.jpg",
       "medium": "../143653/medium.jpg"
-    }
+    },
+    "accentColor": "#8b35c6"
   },
   "149756": {
     "covers": {

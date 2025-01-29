@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `January 29, 2025 19:59 UTC`
+last updated at: `January 29, 2025 20:01 UTC`
 
 total anilist overrides count: `36`
 
@@ -174,6 +174,7 @@ teaser key visual of the anime
   * `large`: [anilist/143653/large.jpg](anilist/143653/large.jpg)
   * `small`: [anilist/143653/small.jpg](anilist/143653/small.jpg)
   * `medium`: [anilist/143653/medium.jpg](anilist/143653/medium.jpg)
+* accent color: ![#8b35c6](https://singlecolorimage.com/get/8b35c6/10x10) `#8b35c6`
 
 ### 149756
 

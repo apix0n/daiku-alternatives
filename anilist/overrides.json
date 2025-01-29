@@ -96,6 +96,13 @@
     },
     "accentColor": "#f05e66"
   },
+  "143653": {
+    "covers": {
+      "large": "../143653/large.jpg",
+      "small": "../143653/small.jpg",
+      "medium": "../143653/medium.jpg"
+    }
+  },
   "149756": {
     "covers": {
       "large": "../149756/large.jpg",

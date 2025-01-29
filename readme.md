@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `January 25, 2025 14:12 UTC`
+last updated at: `January 29, 2025 19:59 UTC`
 
-total anilist overrides count: `35`
+total anilist overrides count: `36`
 
 total tmdb overrides count: `3`
 
@@ -165,6 +165,15 @@ comes from mangadex
 ```
 teaser key visual of the anime
 ```
+
+### 143653
+
+<img align="right" src="anilist/143653/small.jpg" height="100px">
+
+* cover:
+  * `large`: [anilist/143653/large.jpg](anilist/143653/large.jpg)
+  * `small`: [anilist/143653/small.jpg](anilist/143653/small.jpg)
+  * `medium`: [anilist/143653/medium.jpg](anilist/143653/medium.jpg)
 
 ### 149756
 

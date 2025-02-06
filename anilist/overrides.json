@@ -121,6 +121,14 @@
   "154768": {
     "title": "My Dress-Up Darling Season 2"
   },
+  "162804": {
+    "covers": {
+      "large": "../162804/large.jpg",
+      "small": "../162804/small.jpg",
+      "medium": "../162804/medium.jpg"
+    },
+    "accentColor": "#941b3f"
+  },
   "163327": {
     "title": "The Quintessential Quintuplets~"
   },

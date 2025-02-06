@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `February 04, 2025 13:09 UTC`
+last updated at: `February 06, 2025 20:30 UTC`
 
-total anilist overrides count: `37`
+total anilist overrides count: `38`
 
 total tmdb overrides count: `3`
 
@@ -201,6 +201,20 @@ there was a capital letter to "No" and not for the S2 it disturbed me
 ### 154768 - as `My Dress-Up Darling Season 2`
 
 * no cover override
+
+### 162804
+
+<img align="right" src="anilist/162804/small.jpg" height="100px">
+
+* cover:
+  * `large`: [anilist/162804/large.jpg](anilist/162804/large.jpg)
+  * `small`: [anilist/162804/small.jpg](anilist/162804/small.jpg)
+  * `medium`: [anilist/162804/medium.jpg](anilist/162804/medium.jpg)
+* accent color: ![#941b3f](https://singlecolorimage.com/get/941b3f/10x10) `#941b3f`
+* change note:
+```
+colours look better with this one than with the anilist/main cover
+```
 
 ### 163327 - as `The Quintessential Quintuplets~`
 

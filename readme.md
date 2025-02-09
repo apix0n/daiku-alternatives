@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `February 06, 2025 20:30 UTC`
+last updated at: `February 09, 2025 14:53 UTC`
 
 total anilist overrides count: `38`
 
@@ -160,10 +160,11 @@ comes from mangadex
   * `large`: [anilist/143270/large.jpg](anilist/143270/large.jpg)
   * `small`: [anilist/143270/small.jpg](anilist/143270/small.jpg)
   * `medium`: [anilist/143270/medium.jpg](anilist/143270/medium.jpg)
-* accent color: ![#f05e66](https://singlecolorimage.com/get/f05e66/10x10) `#f05e66`
+* accent color: ![#e5d3b2](https://singlecolorimage.com/get/e5d3b2/10x10) `#e5d3b2`
 * change note:
 ```
-teaser key visual of the anime
+third key visual of the anime
+(i have trouble choosing which one to put)
 ```
 
 ### 143653

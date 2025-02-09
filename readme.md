@@ -1,10 +1,10 @@
 # daiku-alternatives
 
-last updated at: `February 09, 2025 14:53 UTC`
+last updated at: `February 09, 2025 15:12 UTC`
 
 total anilist overrides count: `38`
 
-total tmdb overrides count: `3`
+total tmdb overrides count: `5`
 
 ## anilist overrides
 
@@ -326,6 +326,19 @@ again, i don't like full-capital titles
 
 ## tmdb overrides
 
+### 550
+
+<img align="right" src="tmdb/550/small.jpg" height="100px">
+
+* cover:
+  * `large`: [tmdb/550/large.jpg](tmdb/550/large.jpg)
+  * `small`: [tmdb/550/small.jpg](tmdb/550/small.jpg)
+  * `medium`: [tmdb/550/medium.jpg](tmdb/550/medium.jpg)
+* change note:
+```
+too much change on the tmdb page
+```
+
 ### 667520
 
 <img align="right" src="tmdb/667520/small.jpg" height="100px">
@@ -356,5 +369,14 @@ edited (by me) cover art to remove title
   * `large`: [tmdb/916192/large.jpg](tmdb/916192/large.jpg)
   * `small`: [tmdb/916192/small.jpg](tmdb/916192/small.jpg)
   * `medium`: [tmdb/916192/medium.jpg](tmdb/916192/medium.jpg)
+
+### 916224
+
+<img align="right" src="tmdb/916224/small.jpg" height="100px">
+
+* cover:
+  * `large`: [tmdb/916224/large.jpg](tmdb/916224/large.jpg)
+  * `small`: [tmdb/916224/small.jpg](tmdb/916224/small.jpg)
+  * `medium`: [tmdb/916224/medium.jpg](tmdb/916224/medium.jpg)
 
 

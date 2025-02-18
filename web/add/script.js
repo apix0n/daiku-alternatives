@@ -32,9 +32,20 @@ function createPreview(mediaData, overrides = {}) {
 }
 
 async function getLastArchiveURL(url) {
-    const response = await fetch(`https://archive.org/wayback/available?url=${encodeURIComponent(url)}`);
-    const data = await response.json();
-    return data.archived_snapshots.closest?.url || null;
+    try {
+        const response = await fetch(`https://archive.org/wayback/available?url=${encodeURIComponent(url)}`);
+
+        if (!response.ok) {
+            console.warn(`HTTP error ${response.status} while querying URL ${url} on the Internet Archive`);
+            return null;
+        }
+
+        const data = await response.json();
+        return data.archived_snapshots.closest?.url || null;
+    } catch (error) {
+        console.warn(`Error while getting archive for ${url}:`, error);
+        return null;
+    }
 }
 
 document.addEventListener('DOMContentLoaded', async function () {

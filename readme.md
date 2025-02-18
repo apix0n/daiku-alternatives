@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `February 16, 2025 17:37 UTC`
+last updated at: `February 18, 2025 11:52 UTC`
 
 total anilist overrides count: `39`
 
@@ -152,21 +152,6 @@ comes from mangadex
 * no cover override
 * accent color: ![#c99cb9](https://singlecolorimage.com/get/c99cb9/10x10) `#c99cb9`
 
-### 143270
-
-<img align="right" src="anilist/143270/small.jpg" height="100px">
-
-* cover:
-  * `small`: [anilist/143270/small.jpg](anilist/143270/small.jpg)
-  * `large`: [anilist/143270/large.jpg](anilist/143270/large.jpg)
-  * `medium`: [anilist/143270/medium.jpg](anilist/143270/medium.jpg)
-* accent color: ![#e5d3b2](https://singlecolorimage.com/get/e5d3b2/10x10) `#e5d3b2`
-* change note:
-```
-third key visual of the anime
-(i have trouble choosing which one to put)
-```
-
 ### 143653
 
 <img align="right" src="anilist/143653/small.jpg" height="100px">
@@ -285,12 +270,33 @@ cuz the colours weren't bright enough imo + characters too far
 magick .\o-original.jpg -modulate 100,125 -distort SRT '1.2 0' .\original.jpg
 ```
 
+### 178462
+
+<img align="right" src="anilist/178462/small.jpg" height="100px">
+
+* cover:
+  * `small`: [anilist/178462/small.jpg](anilist/178462/small.jpg)
+  * `large`: [anilist/178462/large.jpg](anilist/178462/large.jpg)
+  * `medium`: [anilist/178462/medium.jpg](anilist/178462/medium.jpg)
+* change note:
+```
+this is the second cover image
+changed cuz the anilist one (3rd) was wayy too cluttered
+```
+
 ### 179696
 
-* no cover override
+<img align="right" src="anilist/179696/small.jpg" height="100px">
+
+* cover:
+  * `small`: [anilist/179696/small.jpg](anilist/179696/small.jpg)
+  * `large`: [anilist/179696/large.jpg](anilist/179696/large.jpg)
+  * `medium`: [anilist/179696/medium.jpg](anilist/179696/medium.jpg)
 * airing episodes offset: `-1`
 * change note:
 ```
+first ar, seems calmer imo
++ we didn't see most of the characters anyway
 -1 for offset as i watch the french fansub by team arcedo, which has a 1-week delay on the latest episode
 ```
 

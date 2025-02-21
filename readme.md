@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `February 21, 2025 18:53 UTC`
+last updated at: `February 21, 2025 21:09 UTC`
 
 total anilist overrides count: `40`
 
@@ -154,10 +154,10 @@ title: i hate full-capital titles
   * `small`: [anilist/132182/small.jpg](anilist/132182/small.jpg)
   * `large`: [anilist/132182/large.jpg](anilist/132182/large.jpg)
   * `medium`: [anilist/132182/medium.jpg](anilist/132182/medium.jpg)
-* accent color: ![#009ae2](https://singlecolorimage.com/get/009ae2/10x10) `#009ae2`
+* accent color: ![#2b89ec](https://singlecolorimage.com/get/2b89ec/10x10) `#2b89ec`
 * change note:
 ```
-cover of the 9th volume of the manga since i liked that one more
+cover of the 13th volume of the manga
 comes from mangadex
 ```
 

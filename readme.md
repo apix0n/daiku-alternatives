@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `February 18, 2025 23:26 UTC`
+last updated at: `February 21, 2025 18:53 UTC`
 
-total anilist overrides count: `39`
+total anilist overrides count: `40`
 
 total tmdb overrides count: `5`
 
@@ -130,6 +130,20 @@ i don't like it, as it doesn't display the variety of characters in the anime
 replaced poster cuz we didn't see the band well enough
 cover art comes from anime re-release as movie 'Bocchi the Rock! Re:'
 title: i hate full-capital titles
+```
+
+### 132029
+
+<img align="right" src="anilist/132029/small.jpg" height="100px">
+
+* cover:
+  * `small`: [anilist/132029/small.jpg](anilist/132029/small.jpg)
+  * `large`: [anilist/132029/large.jpg](anilist/132029/large.jpg)
+  * `medium`: [anilist/132029/medium.jpg](anilist/132029/medium.jpg)
+* accent color: ![#0de4d0](https://singlecolorimage.com/get/0de4d0/10x10) `#0de4d0`
+* change note:
+```
+2de volume cover from mangadex
 ```
 
 ### 132182

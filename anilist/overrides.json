@@ -77,6 +77,14 @@
     },
     "title": "Bocchi the Rock!"
   },
+  "132029": {
+    "covers": {
+      "small": "../132029/small.jpg",
+      "large": "../132029/large.jpg",
+      "medium": "../132029/medium.jpg"
+    },
+    "accentColor": "#0de4d0"
+  },
   "132182": {
     "covers": {
       "small": "../132182/small.jpg",

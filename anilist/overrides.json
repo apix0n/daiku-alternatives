@@ -7,9 +7,9 @@
   },
   "14227": {
     "covers": {
-      "small": "../14227/small.jpg",
+      "medium": "../14227/medium.jpg",
       "large": "../14227/large.jpg",
-      "medium": "../14227/medium.jpg"
+      "small": "../14227/small.jpg"
     },
     "accentColor": "#ffab44"
   },
@@ -28,9 +28,9 @@
   },
   "72451": {
     "covers": {
-      "small": "../72451/small.jpg",
+      "medium": "../72451/medium.jpg",
       "large": "../72451/large.jpg",
-      "medium": "../72451/medium.jpg"
+      "small": "../72451/small.jpg"
     },
     "accentColor": "#dd0c33"
   },
@@ -42,24 +42,24 @@
   },
   "117195": {
     "covers": {
-      "small": "../117195/small.jpg",
+      "medium": "../117195/medium.jpg",
       "large": "../117195/large.jpg",
-      "medium": "../117195/medium.jpg"
+      "small": "../117195/small.jpg"
     }
   },
   "124080": {
     "covers": {
-      "small": "../124080/small.jpg",
+      "medium": "../124080/medium.jpg",
       "large": "../124080/large.jpg",
-      "medium": "../124080/medium.jpg"
+      "small": "../124080/small.jpg"
     },
     "accentColor": "#f9d58b"
   },
   "125367": {
     "covers": {
-      "small": "../125367/small.jpg",
+      "medium": "../125367/medium.jpg",
       "large": "../125367/large.jpg",
-      "medium": "../125367/medium.jpg"
+      "small": "../125367/small.jpg"
     },
     "accentColor": "#fa849c"
   },
@@ -71,25 +71,25 @@
   },
   "130003": {
     "covers": {
-      "small": "../130003/small.jpg",
+      "medium": "../130003/medium.jpg",
       "large": "../130003/large.jpg",
-      "medium": "../130003/medium.jpg"
+      "small": "../130003/small.jpg"
     },
     "title": "Bocchi the Rock!"
   },
   "132029": {
     "covers": {
-      "small": "../132029/small.jpg",
+      "medium": "../132029/medium.jpg",
       "large": "../132029/large.jpg",
-      "medium": "../132029/medium.jpg"
+      "small": "../132029/small.jpg"
     },
     "accentColor": "#0de4d0"
   },
   "132182": {
     "covers": {
-      "small": "../132182/small.jpg",
+      "medium": "../132182/medium.jpg",
       "large": "../132182/large.jpg",
-      "medium": "../132182/medium.jpg"
+      "small": "../132182/small.jpg"
     },
     "accentColor": "#2b89ec"
   },
@@ -98,17 +98,17 @@
   },
   "143653": {
     "covers": {
-      "small": "../143653/small.jpg",
+      "medium": "../143653/medium.jpg",
       "large": "../143653/large.jpg",
-      "medium": "../143653/medium.jpg"
+      "small": "../143653/small.jpg"
     },
     "accentColor": "#8b35c6"
   },
   "149756": {
     "covers": {
-      "small": "../149756/small.jpg",
+      "medium": "../149756/medium.jpg",
       "large": "../149756/large.jpg",
-      "medium": "../149756/medium.jpg"
+      "small": "../149756/small.jpg"
     },
     "accentColor": "#ea8889"
   },
@@ -123,9 +123,9 @@
   },
   "162804": {
     "covers": {
-      "small": "../162804/small.jpg",
+      "medium": "../162804/medium.jpg",
       "large": "../162804/large.jpg",
-      "medium": "../162804/medium.jpg"
+      "small": "../162804/small.jpg"
     },
     "accentColor": "#941b3f"
   },
@@ -137,17 +137,21 @@
   },
   "170942": {
     "covers": {
-      "small": "../170942/small.jpg",
+      "medium": "../170942/medium.jpg",
       "large": "../170942/large.jpg",
-      "medium": "../170942/medium.jpg"
+      "small": "../170942/small.jpg"
     },
-    "airingEpisodesOffset": -1
+    "airingEpisodesOffset": -1,
+    "releaseTime": [
+      16,
+      30
+    ]
   },
   "171018": {
     "covers": {
-      "small": "../171018/small.jpg",
+      "medium": "../171018/medium.jpg",
       "large": "../171018/large.jpg",
-      "medium": "../171018/medium.jpg"
+      "small": "../171018/small.jpg"
     },
     "title": "Dandadan"
   },
@@ -162,31 +166,44 @@
   },
   "175443": {
     "covers": {
-      "small": "../175443/small.jpg",
+      "medium": "../175443/medium.jpg",
       "large": "../175443/large.jpg",
-      "medium": "../175443/medium.jpg"
-    }
+      "small": "../175443/small.jpg"
+    },
+    "releaseTime": [
+      18,
+      25
+    ]
+  },
+  "176301": {
+    "releaseTime": [
+      17,
+      15
+    ]
   },
   "178462": {
     "covers": {
-      "small": "../178462/small.jpg",
+      "medium": "../178462/medium.jpg",
       "large": "../178462/large.jpg",
-      "medium": "../178462/medium.jpg"
-    }
+      "small": "../178462/small.jpg"
+    },
+    "releaseTime": [
+      17
+    ]
   },
   "179696": {
     "covers": {
-      "small": "../179696/small.jpg",
+      "medium": "../179696/medium.jpg",
       "large": "../179696/large.jpg",
-      "medium": "../179696/medium.jpg"
+      "small": "../179696/small.jpg"
     },
     "airingEpisodesOffset": -1
   },
   "181444": {
     "covers": {
-      "small": "../181444/small.jpg",
+      "medium": "../181444/medium.jpg",
       "large": "../181444/large.jpg",
-      "medium": "../181444/medium.jpg"
+      "small": "../181444/small.jpg"
     },
     "title": "The Fragrant Flower Blooms With Dignity"
   },

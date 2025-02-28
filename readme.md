@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `February 21, 2025 21:09 UTC`
+last updated at: `February 28, 2025 15:08 UTC`
 
-total anilist overrides count: `40`
+total anilist overrides count: `41`
 
 total tmdb overrides count: `5`
 
@@ -26,9 +26,9 @@ i like the star
 <img align="right" src="anilist/14227/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/14227/small.jpg](anilist/14227/small.jpg)
-  * `large`: [anilist/14227/large.jpg](anilist/14227/large.jpg)
   * `medium`: [anilist/14227/medium.jpg](anilist/14227/medium.jpg)
+  * `large`: [anilist/14227/large.jpg](anilist/14227/large.jpg)
+  * `small`: [anilist/14227/small.jpg](anilist/14227/small.jpg)
 * accent color: ![#ffab44](https://singlecolorimage.com/get/ffab44/10x10) `#ffab44`
 
 ### 18661 - as `Kamisama Kiss OVA`
@@ -53,9 +53,9 @@ i like the star
 <img align="right" src="anilist/72451/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/72451/small.jpg](anilist/72451/small.jpg)
-  * `large`: [anilist/72451/large.jpg](anilist/72451/large.jpg)
   * `medium`: [anilist/72451/medium.jpg](anilist/72451/medium.jpg)
+  * `large`: [anilist/72451/large.jpg](anilist/72451/large.jpg)
+  * `small`: [anilist/72451/small.jpg](anilist/72451/small.jpg)
 * accent color: ![#dd0c33](https://singlecolorimage.com/get/dd0c33/10x10) `#dd0c33`
 * change note:
 ```
@@ -76,9 +76,9 @@ comes from mangacollec
 <img align="right" src="anilist/117195/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/117195/small.jpg](anilist/117195/small.jpg)
-  * `large`: [anilist/117195/large.jpg](anilist/117195/large.jpg)
   * `medium`: [anilist/117195/medium.jpg](anilist/117195/medium.jpg)
+  * `large`: [anilist/117195/large.jpg](anilist/117195/large.jpg)
+  * `small`: [anilist/117195/small.jpg](anilist/117195/small.jpg)
 * change note:
 ```
 cover of the last volume (from mangadex)
@@ -89,9 +89,9 @@ cover of the last volume (from mangadex)
 <img align="right" src="anilist/124080/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/124080/small.jpg](anilist/124080/small.jpg)
-  * `large`: [anilist/124080/large.jpg](anilist/124080/large.jpg)
   * `medium`: [anilist/124080/medium.jpg](anilist/124080/medium.jpg)
+  * `large`: [anilist/124080/large.jpg](anilist/124080/large.jpg)
+  * `small`: [anilist/124080/small.jpg](anilist/124080/small.jpg)
 * accent color: ![#f9d58b](https://singlecolorimage.com/get/f9d58b/10x10) `#f9d58b`
 * change note:
 ```
@@ -104,9 +104,9 @@ i don't like it, as it doesn't display the variety of characters in the anime
 <img align="right" src="anilist/125367/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/125367/small.jpg](anilist/125367/small.jpg)
-  * `large`: [anilist/125367/large.jpg](anilist/125367/large.jpg)
   * `medium`: [anilist/125367/medium.jpg](anilist/125367/medium.jpg)
+  * `large`: [anilist/125367/large.jpg](anilist/125367/large.jpg)
+  * `small`: [anilist/125367/small.jpg](anilist/125367/small.jpg)
 * accent color: ![#fa849c](https://singlecolorimage.com/get/fa849c/10x10) `#fa849c`
 
 ### 125368 - as `Kaguya-sama: Love is War OVA`
@@ -122,9 +122,9 @@ i don't like it, as it doesn't display the variety of characters in the anime
 <img align="right" src="anilist/130003/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/130003/small.jpg](anilist/130003/small.jpg)
-  * `large`: [anilist/130003/large.jpg](anilist/130003/large.jpg)
   * `medium`: [anilist/130003/medium.jpg](anilist/130003/medium.jpg)
+  * `large`: [anilist/130003/large.jpg](anilist/130003/large.jpg)
+  * `small`: [anilist/130003/small.jpg](anilist/130003/small.jpg)
 * change note:
 ```
 replaced poster cuz we didn't see the band well enough
@@ -137,9 +137,9 @@ title: i hate full-capital titles
 <img align="right" src="anilist/132029/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/132029/small.jpg](anilist/132029/small.jpg)
-  * `large`: [anilist/132029/large.jpg](anilist/132029/large.jpg)
   * `medium`: [anilist/132029/medium.jpg](anilist/132029/medium.jpg)
+  * `large`: [anilist/132029/large.jpg](anilist/132029/large.jpg)
+  * `small`: [anilist/132029/small.jpg](anilist/132029/small.jpg)
 * accent color: ![#0de4d0](https://singlecolorimage.com/get/0de4d0/10x10) `#0de4d0`
 * change note:
 ```
@@ -151,9 +151,9 @@ title: i hate full-capital titles
 <img align="right" src="anilist/132182/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/132182/small.jpg](anilist/132182/small.jpg)
-  * `large`: [anilist/132182/large.jpg](anilist/132182/large.jpg)
   * `medium`: [anilist/132182/medium.jpg](anilist/132182/medium.jpg)
+  * `large`: [anilist/132182/large.jpg](anilist/132182/large.jpg)
+  * `small`: [anilist/132182/small.jpg](anilist/132182/small.jpg)
 * accent color: ![#2b89ec](https://singlecolorimage.com/get/2b89ec/10x10) `#2b89ec`
 * change note:
 ```
@@ -171,9 +171,9 @@ comes from mangadex
 <img align="right" src="anilist/143653/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/143653/small.jpg](anilist/143653/small.jpg)
-  * `large`: [anilist/143653/large.jpg](anilist/143653/large.jpg)
   * `medium`: [anilist/143653/medium.jpg](anilist/143653/medium.jpg)
+  * `large`: [anilist/143653/large.jpg](anilist/143653/large.jpg)
+  * `small`: [anilist/143653/small.jpg](anilist/143653/small.jpg)
 * accent color: ![#8b35c6](https://singlecolorimage.com/get/8b35c6/10x10) `#8b35c6`
 
 ### 149756
@@ -181,9 +181,9 @@ comes from mangadex
 <img align="right" src="anilist/149756/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/149756/small.jpg](anilist/149756/small.jpg)
-  * `large`: [anilist/149756/large.jpg](anilist/149756/large.jpg)
   * `medium`: [anilist/149756/medium.jpg](anilist/149756/medium.jpg)
+  * `large`: [anilist/149756/large.jpg](anilist/149756/large.jpg)
+  * `small`: [anilist/149756/small.jpg](anilist/149756/small.jpg)
 * accent color: ![#ea8889](https://singlecolorimage.com/get/ea8889/10x10) `#ea8889`
 
 ### 150672 - as `Oshi no Ko`
@@ -207,9 +207,9 @@ there was a capital letter to "No" and not for the S2 it disturbed me
 <img align="right" src="anilist/162804/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/162804/small.jpg](anilist/162804/small.jpg)
-  * `large`: [anilist/162804/large.jpg](anilist/162804/large.jpg)
   * `medium`: [anilist/162804/medium.jpg](anilist/162804/medium.jpg)
+  * `large`: [anilist/162804/large.jpg](anilist/162804/large.jpg)
+  * `small`: [anilist/162804/small.jpg](anilist/162804/small.jpg)
 * accent color: ![#941b3f](https://singlecolorimage.com/get/941b3f/10x10) `#941b3f`
 * change note:
 ```
@@ -229,10 +229,11 @@ colours look better with this one than with the anilist/main cover
 <img align="right" src="anilist/170942/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/170942/small.jpg](anilist/170942/small.jpg)
-  * `large`: [anilist/170942/large.jpg](anilist/170942/large.jpg)
   * `medium`: [anilist/170942/medium.jpg](anilist/170942/medium.jpg)
+  * `large`: [anilist/170942/large.jpg](anilist/170942/large.jpg)
+  * `small`: [anilist/170942/small.jpg](anilist/170942/small.jpg)
 * airing episodes offset: `-1`
+* release time override: `16:30 UTC`
 * change note:
 ```
 the cover art is for the cour 2 of the anime
@@ -244,9 +245,9 @@ episodes air one week in advance on jp netflix, and anilists bases on that; so -
 <img align="right" src="anilist/171018/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/171018/small.jpg](anilist/171018/small.jpg)
-  * `large`: [anilist/171018/large.jpg](anilist/171018/large.jpg)
   * `medium`: [anilist/171018/medium.jpg](anilist/171018/medium.jpg)
+  * `large`: [anilist/171018/large.jpg](anilist/171018/large.jpg)
+  * `small`: [anilist/171018/small.jpg](anilist/171018/small.jpg)
 * change note:
 ```
 i don't like full-capital titles
@@ -273,9 +274,10 @@ else the title was too long 💀
 <img align="right" src="anilist/175443/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/175443/small.jpg](anilist/175443/small.jpg)
-  * `large`: [anilist/175443/large.jpg](anilist/175443/large.jpg)
   * `medium`: [anilist/175443/medium.jpg](anilist/175443/medium.jpg)
+  * `large`: [anilist/175443/large.jpg](anilist/175443/large.jpg)
+  * `small`: [anilist/175443/small.jpg](anilist/175443/small.jpg)
+* release time override: `18:25 UTC`
 * change note:
 ```
 original image (o-original.jpg) oversaturated by 125% (saturate(1.25) in css filter terms) and zoomed in by 120% (background-size: 1.20)
@@ -284,14 +286,20 @@ cuz the colours weren't bright enough imo + characters too far
 magick .\o-original.jpg -modulate 100,125 -distort SRT '1.2 0' .\original.jpg
 ```
 
+### 176301
+
+* no cover override
+* release time override: `17:15 UTC`
+
 ### 178462
 
 <img align="right" src="anilist/178462/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/178462/small.jpg](anilist/178462/small.jpg)
-  * `large`: [anilist/178462/large.jpg](anilist/178462/large.jpg)
   * `medium`: [anilist/178462/medium.jpg](anilist/178462/medium.jpg)
+  * `large`: [anilist/178462/large.jpg](anilist/178462/large.jpg)
+  * `small`: [anilist/178462/small.jpg](anilist/178462/small.jpg)
+* release time override: `17:00 UTC`
 * change note:
 ```
 this is the second cover image
@@ -303,9 +311,9 @@ changed cuz the anilist one (3rd) was wayy too cluttered
 <img align="right" src="anilist/179696/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/179696/small.jpg](anilist/179696/small.jpg)
-  * `large`: [anilist/179696/large.jpg](anilist/179696/large.jpg)
   * `medium`: [anilist/179696/medium.jpg](anilist/179696/medium.jpg)
+  * `large`: [anilist/179696/large.jpg](anilist/179696/large.jpg)
+  * `small`: [anilist/179696/small.jpg](anilist/179696/small.jpg)
 * airing episodes offset: `-1`
 * change note:
 ```
@@ -319,9 +327,9 @@ first ar, seems calmer imo
 <img align="right" src="anilist/181444/small.jpg" height="100px">
 
 * cover:
-  * `small`: [anilist/181444/small.jpg](anilist/181444/small.jpg)
-  * `large`: [anilist/181444/large.jpg](anilist/181444/large.jpg)
   * `medium`: [anilist/181444/medium.jpg](anilist/181444/medium.jpg)
+  * `large`: [anilist/181444/large.jpg](anilist/181444/large.jpg)
+  * `small`: [anilist/181444/small.jpg](anilist/181444/small.jpg)
 * change note:
 ```
 doesn't have a proper cover art yet, will remove when cover art releases
@@ -360,9 +368,9 @@ again, i don't like full-capital titles
 <img align="right" src="tmdb/550/small.jpg" height="100px">
 
 * cover:
-  * `small`: [tmdb/550/small.jpg](tmdb/550/small.jpg)
-  * `large`: [tmdb/550/large.jpg](tmdb/550/large.jpg)
   * `medium`: [tmdb/550/medium.jpg](tmdb/550/medium.jpg)
+  * `large`: [tmdb/550/large.jpg](tmdb/550/large.jpg)
+  * `small`: [tmdb/550/small.jpg](tmdb/550/small.jpg)
 * change note:
 ```
 too much change on the tmdb page
@@ -373,18 +381,18 @@ too much change on the tmdb page
 <img align="right" src="tmdb/667520/small.jpg" height="100px">
 
 * cover:
-  * `small`: [tmdb/667520/small.jpg](tmdb/667520/small.jpg)
-  * `large`: [tmdb/667520/large.jpg](tmdb/667520/large.jpg)
   * `medium`: [tmdb/667520/medium.jpg](tmdb/667520/medium.jpg)
+  * `large`: [tmdb/667520/large.jpg](tmdb/667520/large.jpg)
+  * `small`: [tmdb/667520/small.jpg](tmdb/667520/small.jpg)
 
 ### 776305
 
 <img align="right" src="tmdb/776305/small.jpg" height="100px">
 
 * cover:
-  * `small`: [tmdb/776305/small.jpg](tmdb/776305/small.jpg)
-  * `large`: [tmdb/776305/large.jpg](tmdb/776305/large.jpg)
   * `medium`: [tmdb/776305/medium.jpg](tmdb/776305/medium.jpg)
+  * `large`: [tmdb/776305/large.jpg](tmdb/776305/large.jpg)
+  * `small`: [tmdb/776305/small.jpg](tmdb/776305/small.jpg)
 * change note:
 ```
 edited (by me) cover art to remove title
@@ -395,17 +403,17 @@ edited (by me) cover art to remove title
 <img align="right" src="tmdb/916192/small.jpg" height="100px">
 
 * cover:
-  * `small`: [tmdb/916192/small.jpg](tmdb/916192/small.jpg)
-  * `large`: [tmdb/916192/large.jpg](tmdb/916192/large.jpg)
   * `medium`: [tmdb/916192/medium.jpg](tmdb/916192/medium.jpg)
+  * `large`: [tmdb/916192/large.jpg](tmdb/916192/large.jpg)
+  * `small`: [tmdb/916192/small.jpg](tmdb/916192/small.jpg)
 
 ### 916224
 
 <img align="right" src="tmdb/916224/small.jpg" height="100px">
 
 * cover:
-  * `small`: [tmdb/916224/small.jpg](tmdb/916224/small.jpg)
-  * `large`: [tmdb/916224/large.jpg](tmdb/916224/large.jpg)
   * `medium`: [tmdb/916224/medium.jpg](tmdb/916224/medium.jpg)
+  * `large`: [tmdb/916224/large.jpg](tmdb/916224/large.jpg)
+  * `small`: [tmdb/916224/small.jpg](tmdb/916224/small.jpg)
 
 

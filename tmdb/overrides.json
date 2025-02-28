@@ -1,37 +1,37 @@
 {
   "550": {
     "covers": {
-      "small": "../550/small.jpg",
+      "medium": "../550/medium.jpg",
       "large": "../550/large.jpg",
-      "medium": "../550/medium.jpg"
+      "small": "../550/small.jpg"
     }
   },
   "667520": {
     "covers": {
-      "small": "../667520/small.jpg",
+      "medium": "../667520/medium.jpg",
       "large": "../667520/large.jpg",
-      "medium": "../667520/medium.jpg"
+      "small": "../667520/small.jpg"
     }
   },
   "776305": {
     "covers": {
-      "small": "../776305/small.jpg",
+      "medium": "../776305/medium.jpg",
       "large": "../776305/large.jpg",
-      "medium": "../776305/medium.jpg"
+      "small": "../776305/small.jpg"
     }
   },
   "916192": {
     "covers": {
-      "small": "../916192/small.jpg",
+      "medium": "../916192/medium.jpg",
       "large": "../916192/large.jpg",
-      "medium": "../916192/medium.jpg"
+      "small": "../916192/small.jpg"
     }
   },
   "916224": {
     "covers": {
-      "small": "../916224/small.jpg",
+      "medium": "../916224/medium.jpg",
       "large": "../916224/large.jpg",
-      "medium": "../916224/medium.jpg"
+      "small": "../916224/small.jpg"
     }
   }
 }

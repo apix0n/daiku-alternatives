@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `March 07, 2025 21:44 UTC`
+last updated at: `March 07, 2025 22:18 UTC`
 
 total anilist overrides count: `41`
 

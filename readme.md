@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `March 07, 2025 22:18 UTC`
+last updated at: `March 14, 2025 17:55 UTC`
 
 total anilist overrides count: `41`
 
@@ -289,7 +289,7 @@ magick .\o-original.jpg -modulate 100,125 -distort SRT '1.2 0' .\original.jpg
 ### 176301
 
 * no cover override
-* release time override: `17:15 UTC`
+* release time override: `16:15 UTC`
 
 ### 178462
 
@@ -299,7 +299,7 @@ magick .\o-original.jpg -modulate 100,125 -distort SRT '1.2 0' .\original.jpg
   * `medium`: [anilist/462/medium.jpg](anilist/462/medium.jpg)
   * `large`: [anilist/462/large.jpg](anilist/462/large.jpg)
   * `small`: [anilist/462/small.jpg](anilist/462/small.jpg)
-* release time override: `17:00 UTC`
+* release time override: `16:00 UTC`
 * change note:
 ```
 this is the second cover image

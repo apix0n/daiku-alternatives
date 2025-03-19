@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `March 16, 2025 19:36 UTC`
+last updated at: `March 19, 2025 15:53 UTC`
 
 total anilist overrides count: `41`
 
@@ -277,7 +277,7 @@ else the title was too long 💀
   * `medium`: [anilist/175443/medium.jpg](anilist/175443/medium.jpg)
   * `large`: [anilist/175443/large.jpg](anilist/175443/large.jpg)
   * `small`: [anilist/175443/small.jpg](anilist/175443/small.jpg)
-* release time override: `18:25 UTC`
+* release time override: `17:25 UTC`
 * change note:
 ```
 original image (o-original.jpg) oversaturated by 125% (saturate(1.25) in css filter terms) and zoomed in by 120% (background-size: 1.20)

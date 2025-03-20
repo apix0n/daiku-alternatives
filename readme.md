@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `March 19, 2025 15:53 UTC`
+last updated at: `March 20, 2025 23:00 UTC`
 
-total anilist overrides count: `41`
+total anilist overrides count: `42`
 
 total tmdb overrides count: `5`
 
@@ -68,6 +68,10 @@ comes from mangacollec
 * no cover override
 
 ### 102423 - as `We Want to Talk About Kaguya`
+
+* no cover override
+
+### 105334 - as `Fruits Basket`
 
 * no cover override
 

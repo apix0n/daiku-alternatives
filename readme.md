@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `March 22, 2025 08:00 UTC`
+last updated at: `March 22, 2025 13:55 UTC`
 
 total anilist overrides count: `42`
 
@@ -328,7 +328,16 @@ first ar, seems calmer imo
 
 ### 181444 - as `The Fragrant Flower Blooms With Dignity`
 
-* no cover override
+<img align="right" src="anilist/181444/small.jpg" height="100px">
+
+* cover:
+  * `medium`: [anilist/181444/medium.jpg](anilist/181444/medium.jpg)
+  * `large`: [anilist/181444/large.jpg](anilist/181444/large.jpg)
+  * `small`: [anilist/181444/small.jpg](anilist/181444/small.jpg)
+* change note:
+```
+cover art without series name in the middle (using screenshots from the seiyuu pv - https://www.youtube.com/watch?v=DhXMTCRmLsE)
+```
 
 ### 181641 - as `Alya Sometimes Hides Her Feelings in Russian Season 2`
 

@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `March 22, 2025 13:55 UTC`
+last updated at: `March 27, 2025 20:06 UTC`
 
-total anilist overrides count: `42`
+total anilist overrides count: `43`
 
 total tmdb overrides count: `5`
 
@@ -236,12 +236,9 @@ colours look better with this one than with the anilist/main cover
   * `medium`: [anilist/170942/medium.jpg](anilist/170942/medium.jpg)
   * `large`: [anilist/170942/large.jpg](anilist/170942/large.jpg)
   * `small`: [anilist/170942/small.jpg](anilist/170942/small.jpg)
-* airing episodes offset: `-1`
-* release time override: `16:30 UTC`
 * change note:
 ```
-the cover art is for the cour 2 of the anime
-episodes air one week in advance on jp netflix, and anilists bases on that; so -1 to get everywhere's correct next episode number
+2nd cover art of the anime
 ```
 
 ### 171018 - as `Dandadan`
@@ -362,6 +359,10 @@ its writing didn't match the other seasons'
 ```
 again, i don't like full-capital titles
 ```
+
+### 189123 - as `Blue Box Season 2`
+
+* no cover override
 
 
 

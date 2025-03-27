@@ -143,12 +143,7 @@
       "medium": "170942/medium.jpg",
       "large": "170942/large.jpg",
       "small": "170942/small.jpg"
-    },
-    "airingEpisodesOffset": -1,
-    "releaseTime": [
-      16,
-      30
-    ]
+    }
   },
   "171018": {
     "covers": {
@@ -221,5 +216,8 @@
   },
   "185660": {
     "title": "Dandadan Season 2"
+  },
+  "189123": {
+    "title": "Blue Box Season 2"
   }
 }

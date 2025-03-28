@@ -218,6 +218,11 @@
     "title": "Dandadan Season 2"
   },
   "189123": {
+    "covers": {
+      "medium": "189123/medium.jpg",
+      "large": "189123/large.jpg",
+      "small": "189123/small.jpg"
+    },
     "title": "Blue Box Season 2"
   }
 }

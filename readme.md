@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `March 27, 2025 20:06 UTC`
+last updated at: `March 28, 2025 10:39 UTC`
 
 total anilist overrides count: `43`
 
@@ -362,7 +362,17 @@ again, i don't like full-capital titles
 
 ### 189123 - as `Blue Box Season 2`
 
-* no cover override
+<img align="right" src="anilist/189123/small.jpg" height="100px">
+
+* cover:
+  * `medium`: [anilist/189123/medium.jpg](anilist/189123/medium.jpg)
+  * `large`: [anilist/189123/large.jpg](anilist/189123/large.jpg)
+  * `small`: [anilist/189123/small.jpg](anilist/189123/small.jpg)
+* change note:
+```
+season 1 bluray vol 2 cover, will remove when actual art is released
+(the anllist cover is just a white screen with the logo)
+```
 
 
 
